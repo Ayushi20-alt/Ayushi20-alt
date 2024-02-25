@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayushi20-alt/Ayushi20-alt/blob/main/Ayushi20-alt.png)
+<img align="centre" alt="coding" width="1000" src="https://github.com/Ayushi20-alt/Ayushi20-alt/blob/main/Ayushi20-alt.png">
 <h1 align="center">Hi 👋, I'm Ayushi Singh</h1>
 <h3 align="center">Unleashing creativity through Android development wizardry</h3>
 
